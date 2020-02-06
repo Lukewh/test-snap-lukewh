@@ -15,4 +15,4 @@ parts:
 
 apps:
   test-snap-lukewh:
-    command: python3 test_snap_lukewh.py
+    command: python3 test_snap.py
